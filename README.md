@@ -1,5 +1,5 @@
 # Data Analyst | Excel | SQL | Power BI | Python | Open to New Opportunities
-# 👋 Hi, I'm Monika
+## 👋 Hi, I'm Monika
 ## 💡 About Me
 I am a motivated and detail-oriented *Data Analyst Fresher* with a strong foundation in data analysis and visualization. I enjoy working with data to uncover insights, support decision-making, and solve real-world business problems. I am continuously learning and building projects to strengthen my analytical skills.
 ## 🛠️ Skills & Tools
